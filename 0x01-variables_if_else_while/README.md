@@ -1,1 +1,1 @@
-zebi 2
+this project is about variable,if-else and while conditions
